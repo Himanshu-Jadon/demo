@@ -1,2 +1,3 @@
 Hello There
 I am changing this file for diff tool
+Changing file for fast forward commit
